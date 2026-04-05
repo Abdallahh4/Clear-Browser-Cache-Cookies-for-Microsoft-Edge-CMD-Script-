@@ -1,0 +1,1 @@
+# Clear-Browser-Cache-Cookies-for-Microsoft-Edge-CMD-Script-
